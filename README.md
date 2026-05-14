@@ -1,4 +1,4 @@
-# seika
+# Hi! I'm seika
 
 Game / Music / 3DCG / Novel / Movie
 
