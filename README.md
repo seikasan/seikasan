@@ -2,7 +2,7 @@
 
 Game / Music / 3DCG / Novel / Movie
 
-[Portfolio](https://seikasan.github.io/My_Portfolio/)
+[Portfolio](https://portfolio.seikasan.workers.dev/)
 
 [Qiita](https://qiita.com/seikasan)
 
