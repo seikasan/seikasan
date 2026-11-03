@@ -23,8 +23,8 @@
 
   <rect width="900" height="260" fill="url(#sky)"/>
   <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#1a0a2e"/>
-    <stop offset="100%" stop-color="#ff7043"/>
+    <stop offset="0%" stop-color="#020510"/>
+    <stop offset="100%" stop-color="#0a0f1e"/>
   </linearGradient></defs>
   <circle class="star" cx="259.0" cy="108.0" r="1.5" fill="#c3d1d9" style="animation-delay:0.0s"/>
   <circle class="star" cx="518.0" cy="61.0" r="0.8" fill="#c3d1d9" style="animation-delay:0.3s"/>
@@ -2248,28 +2248,20 @@
   
 
   <!-- Birds -->
-  <g class="bird" style="animation-delay:0.0s;animation-duration:18.0s">
-      <path d="M0,48 Q3,45 6,48 Q9,45 12,48" stroke="#c3d1d9" stroke-width="1.2" fill="none"/>
-    </g>
-  <g class="bird" style="animation-delay:3.5s;animation-duration:23.0s">
-      <path d="M0,62 Q3,59 6,62 Q9,59 12,62" stroke="#c3d1d9" stroke-width="1.2" fill="none"/>
-    </g>
-  <g class="bird" style="animation-delay:7.0s;animation-duration:28.0s">
-      <path d="M0,76 Q3,73 6,76 Q9,73 12,76" stroke="#c3d1d9" stroke-width="1.2" fill="none"/>
-    </g>
+  
 
   <!-- HUD label -->
   
   <g>
     <rect x="8" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#c3d1d9">
-      🌍 seikasan's GitWorld · 2760 commits
+      🌍 seikasan's GitWorld · 2761 commits
     </text>
   </g>
   <g>
     <rect x="782" y="8" width="110" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="788" y="22" font-family="monospace" font-size="10" fill="#c3d1d9">
-      🔥 38d streak
+      🔥 0d streak
     </text>
   </g>
 
