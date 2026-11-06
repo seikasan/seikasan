@@ -199,51 +199,51 @@
           style="animation-delay:1.9s"/><circle class="smoke" cx="22.2" cy="92.0" r="4"
       fill="#888" opacity="0.6"
       style="animation-delay:0.40s"/></g>
-  <g class="col" data-week="2"><rect x="34.6" y="109" width="16.3" height="86"
-    fill="#39d353" rx="1"/><line x1="42.8" y1="109" x2="42.8" y2="97.0"
-      stroke="#2ea043" stroke-width="1.5"/><circle class="blink" cx="42.8" cy="96.0" r="2"
-      fill="#ff4444" style="animation-delay:0.34s"/><rect class="win" x="36.6" y="113.0"
+  <g class="col" data-week="2"><rect x="34.6" y="111" width="16.3" height="84"
+    fill="#39d353" rx="1"/><line x1="42.8" y1="111" x2="42.8" y2="99.0"
+      stroke="#2ea043" stroke-width="1.5"/><circle class="blink" cx="42.8" cy="98.0" r="2"
+      fill="#ff4444" style="animation-delay:0.34s"/><rect class="win" x="36.6" y="115.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:0.0s"/>
-    <rect class="win" x="46.6" y="113.0"
+    <rect class="win" x="46.6" y="115.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:0.6s"/>
-    <rect class="win" x="41.6" y="123.0"
+    <rect class="win" x="41.6" y="125.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:1.2s"/>
-    <rect class="win" x="46.6" y="123.0"
+    <rect class="win" x="46.6" y="125.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:1.5s"/>
-    <rect class="win" x="36.6" y="133.0"
+    <rect class="win" x="36.6" y="135.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:1.8s"/>
-    <rect class="win" x="41.6" y="133.0"
+    <rect class="win" x="41.6" y="135.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:2.1s"/>
-    <rect class="win" x="36.6" y="143.0"
+    <rect class="win" x="36.6" y="145.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:2.7s"/>
-    <rect class="win" x="46.6" y="143.0"
+    <rect class="win" x="46.6" y="145.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:3.3s"/>
-    <rect class="win" x="41.6" y="153.0"
+    <rect class="win" x="41.6" y="155.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:3.9s"/>
-    <rect class="win" x="46.6" y="153.0"
+    <rect class="win" x="46.6" y="155.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:4.2s"/>
-    <rect class="win" x="36.6" y="163.0"
+    <rect class="win" x="36.6" y="165.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:4.5s"/>
-    <rect class="win" x="41.6" y="163.0"
+    <rect class="win" x="41.6" y="165.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:4.8s"/>
-    <rect class="win" x="36.6" y="173.0"
+    <rect class="win" x="36.6" y="175.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:0.4s"/>
-    <rect class="win" x="46.6" y="173.0"
+    <rect class="win" x="46.6" y="175.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
-          style="animation-delay:1.0s"/><circle class="smoke" cx="39.5" cy="104.0" r="4"
+          style="animation-delay:1.0s"/><circle class="smoke" cx="39.5" cy="106.0" r="4"
       fill="#888" opacity="0.6"
       style="animation-delay:0.80s"/></g>
   <g class="col" data-week="3"><rect x="51.9" y="165" width="16.3" height="30"
@@ -2302,13 +2302,13 @@
   <g>
     <rect x="8" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#c3d1d9">
-      🌍 seikasan's GitWorld · 2801 commits
+      🌍 seikasan's GitWorld · 2807 commits
     </text>
   </g>
   <g>
     <rect x="782" y="8" width="110" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="788" y="22" font-family="monospace" font-size="10" fill="#c3d1d9">
-      🔥 42d streak
+      🔥 43d streak
     </text>
   </g>
 
