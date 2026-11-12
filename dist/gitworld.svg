@@ -23,8 +23,8 @@
 
   <rect width="900" height="260" fill="url(#sky)"/>
   <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#1a0a2e"/>
-    <stop offset="100%" stop-color="#ff7043"/>
+    <stop offset="0%" stop-color="#020510"/>
+    <stop offset="100%" stop-color="#0a0f1e"/>
   </linearGradient></defs>
   <circle class="star" cx="259.0" cy="108.0" r="1.5" fill="#c3d1d9" style="animation-delay:0.0s"/>
   <circle class="star" cx="518.0" cy="61.0" r="0.8" fill="#c3d1d9" style="animation-delay:0.3s"/>
@@ -255,29 +255,29 @@
     <rect class="win" x="46.6" y="180.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:1.5s"/></g>
-  <g class="col" data-week="3"><rect x="51.9" y="140" width="16.3" height="55"
-    fill="#39d353" rx="1"/><rect class="win" x="58.9" y="144.0"
+  <g class="col" data-week="3"><rect x="51.9" y="146" width="16.3" height="49"
+    fill="#39d353" rx="1"/><rect class="win" x="58.9" y="150.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:0.3s"/>
-    <rect class="win" x="63.9" y="144.0"
+    <rect class="win" x="63.9" y="150.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:0.6s"/>
-    <rect class="win" x="53.9" y="154.0"
+    <rect class="win" x="53.9" y="160.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:0.9s"/>
-    <rect class="win" x="58.9" y="154.0"
+    <rect class="win" x="58.9" y="160.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:1.2s"/>
-    <rect class="win" x="53.9" y="164.0"
+    <rect class="win" x="53.9" y="170.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:1.8s"/>
-    <rect class="win" x="63.9" y="164.0"
+    <rect class="win" x="63.9" y="170.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:2.4s"/>
-    <rect class="win" x="58.9" y="174.0"
+    <rect class="win" x="58.9" y="180.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:3.0s"/>
-    <rect class="win" x="63.9" y="174.0"
+    <rect class="win" x="63.9" y="180.0"
           width="2.5" height="2.5" fill="#f0fff4" rx="0.5"
           style="animation-delay:3.3s"/></g>
   <g class="col" data-week="4"><rect x="69.2" y="140" width="16.3" height="55"
@@ -2335,28 +2335,20 @@
   
 
   <!-- Birds -->
-  <g class="bird" style="animation-delay:0.0s;animation-duration:18.0s">
-      <path d="M0,48 Q3,45 6,48 Q9,45 12,48" stroke="#c3d1d9" stroke-width="1.2" fill="none"/>
-    </g>
-  <g class="bird" style="animation-delay:3.5s;animation-duration:23.0s">
-      <path d="M0,62 Q3,59 6,62 Q9,59 12,62" stroke="#c3d1d9" stroke-width="1.2" fill="none"/>
-    </g>
-  <g class="bird" style="animation-delay:7.0s;animation-duration:28.0s">
-      <path d="M0,76 Q3,73 6,76 Q9,73 12,76" stroke="#c3d1d9" stroke-width="1.2" fill="none"/>
-    </g>
+  
 
   <!-- HUD label -->
   
   <g>
     <rect x="8" y="8" width="200" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="14" y="22" font-family="monospace" font-size="10" fill="#c3d1d9">
-      🌍 seikasan's GitWorld · 2959 commits
+      🌍 seikasan's GitWorld · 2968 commits
     </text>
   </g>
   <g>
     <rect x="782" y="8" width="110" height="22" rx="4" fill="rgba(0,0,0,0.5)"/>
     <text x="788" y="22" font-family="monospace" font-size="10" fill="#c3d1d9">
-      🔥 47d streak
+      🔥 0d streak
     </text>
   </g>
 
